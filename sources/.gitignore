@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.db
+publish/
+
+VeloCity.Installer/Components/ApplicationFiles.wxs
