@@ -6,6 +6,10 @@ An exercise that can be performed to teach students the Observer Pattern.
 
 It contains 6 projects that represent 6 steps in implementing and transforming the Observer Pattern from its most basic form to its standard usage in C#.
 
+More details can be found in the article:
+
+- [doc/article/README.md](doc/article/README.md)
+
 ## Discussions and Suggestions
 
 https://github.com/lastunicorn/Observer-Pattern/discussions
